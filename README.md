@@ -6,8 +6,9 @@ All `CSS code` for Learning.
 
 ```css
 .field {
-  border-right: 25px dotted lightcoral;
-  width: 1000px;
+  border-right: 1px dotted lightcoral;
+  width: 150px;
+  cursor: cell;
 }
 .bat {
   transition: transform 0.2s ease-in;
